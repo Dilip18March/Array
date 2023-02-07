@@ -1,0 +1,16 @@
+{
+  "name": "array",
+  "version": "1.0.0",
+  "description": "",
+  "main": "another.js",
+  "scripts": {
+    "start": "node -r esm another.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "mongoose": "^6.9.0"
+  }
+}
